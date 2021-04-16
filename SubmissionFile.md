@@ -33,6 +33,7 @@ Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the 
 
 Is Altoro Mutual vulnerable to XSS: 
   - unsure kept getting this error
+  - https://github.com/SigmaRellik/HW16/blob/656134f5dcb212f6e0448b3142354c3093455753/Images/Screen%20Shot%202021-04-15%20at%208.51.44%20PM.png
   
 ### Step 5: Zenmap
 
@@ -50,7 +51,7 @@ Your client has asked that you help identify any vulnerabilities with their file
   2. Why is it dangerous:
     - anyone can access company files and modify them 
   3. What mitigation strategies can you recommendations for the client to protect their server:
-      - update SAMBA server to most current version
+    - update SAMBA server to most current version
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.  
 

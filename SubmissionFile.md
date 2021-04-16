@@ -33,8 +33,7 @@ Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the 
 
 Is Altoro Mutual vulnerable to XSS: 
   - unsure kept getting this error
-  - https://github.com/SigmaRellik/HW16/blob/656134f5dcb212f6e0448b3142354c3093455753/Images/Screen%20Shot%202021-04-15%20at%208.51.44%20PM.png
-  
+  - ![error](Images/Screen Shot 2021-04-15 at 8.51.44 PM.png) 
 ### Step 5: Zenmap
 
 Your client has asked that you help identify any vulnerabilities with their file-sharing server. Using the Metasploitable machine to act as your client's server, complete the following:
